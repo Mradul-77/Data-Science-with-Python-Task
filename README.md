@@ -11,3 +11,7 @@ Data set can be downloaded from: https://drive.google.com/file/d/1WNQ7DPqqthF5a2
 ## Task-4:
 This task is about creating visualizations to understand the distribution of variables, identify outliers, and check for correlations between variables in the data set.
 Data Set can be downloaded from: https://drive.google.com/file/d/1NK-uhFZTJAsbH9VLmMx80oDQZ8LGfsOO/view?usp=drive_link
+## Task-5:
+This task is about creating and analyzing visualizations on the data set 'heart.csv' and answering random questions on the data set by plotting different graphs and charts.
+Techniques like PCA or feature importance to select the most important features is used.
+Data set can be downloaded from: https://drive.google.com/file/d/1IZCDqfZUB1WEi1Uwc57qsFFBLN8BnSf3/view?usp=drive_link
