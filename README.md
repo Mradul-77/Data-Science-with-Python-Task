@@ -16,4 +16,5 @@ This task is about creating and analyzing visualizations on the data set 'heart.
 Techniques like PCA or feature importance to select the most important features is used.
 Data set can be downloaded from: https://drive.google.com/file/d/1IZCDqfZUB1WEi1Uwc57qsFFBLN8BnSf3/view?usp=drive_link
 ## Task-6: Advanced Data Analysis Techniques
-
+This task deals with all the techniques and methods used in the previous taks. It with advanced statistical and analytical methods to solve complex problems. Implemented time series analysis for forecasting trends and seasonality. Performed sentiment analysis or text mining on unstructured data. Explored clustering or classification techniques for segmentation and pattern recognition.
+Data set can be downloaded from: https://drive.google.com/file/d/177MIicaRzxBBUCfjrE1zio068qgI5qTI/view?usp=drive_link
